@@ -1,0 +1,1 @@
+Wisp Frontend built on Next.js
